@@ -1582,14 +1582,14 @@ class Tetris:
             self.preShapeVertices[iOffset + vOffset + 1] = posY
             self.preShapeVertices[iOffset + vOffset + 2] = 0.0
 
-            glBindBuffer(GL_ARRAY_BUFFER, self.gameVBO[2])
-            glBufferSubData(GL_ARRAY_BUFFER, 0, self.gameStuffVerticesList[2].nbytes, self.gameStuffVerticesList[2])
-            glBindBuffer(GL_ARRAY_BUFFER, 0)
+        glBindBuffer(GL_ARRAY_BUFFER, self.gameVBO[2])
+        glBufferSubData(GL_ARRAY_BUFFER, 0, self.gameStuffVerticesList[2].nbytes, self.gameStuffVerticesList[2])
+        glBindBuffer(GL_ARRAY_BUFFER, 0)
 
-            glBindVertexArray(self.gameVAO[2])
-            glDrawElements(GL_TRIANGLES, len(self.gameStuffIndicesList[2]), GL_UNSIGNED_INT, None)
+        glBindVertexArray(self.gameVAO[2])
+        glDrawElements(GL_TRIANGLES, len(self.gameStuffIndicesList[2]), GL_UNSIGNED_INT, None)
 
-            glBindVertexArray(0)
+        glBindVertexArray(0)
 
         glPopAttrib()
 
