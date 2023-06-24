@@ -33,13 +33,13 @@
 ##
 
 ##### Sliding Puzzle
-* Part 1 : SlidingPuzzle [(YouTube)](https://www.youtube.com/watch?v=K6MSUSgOYvM)
+* Part 1 : SlidingPuzzle [(YouTube)](https://youtu.be/K6MSUSgOYvM)
 ##
 
 ##### Asteroids
-* Part 1 : Asteroids [(YouTube)](https://www.youtube.com/watch?v=-9RcAB7QORI)
+* Part 1 : Asteroids [(YouTube)](https://youtu.be/-9RcAB7QORI)
 ##
 
 ##### Maze Generator
-* Part 1 : ?  
+* Part 1 : MazeGenerator [(YouTube)](https://youtu.be/D2yq2feBnkQ)
 ##
