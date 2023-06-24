@@ -41,5 +41,5 @@
 ##
 
 ##### Maze Generator
-* Part 1 : MazeGenerator [(YouTube)](https://youtu.be/D2yq2feBnkQ)
+* Part 1 : MazeGenerator [(YouTube)](https://youtu.be/xaM8xGwe5Xo)
 ##
